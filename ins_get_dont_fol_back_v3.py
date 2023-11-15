@@ -17,7 +17,7 @@ class InsDL:
         """
         Parameters:
         self.target (str): target you'd like to check 
-        self.login_username (str): your instagram login account which should already be saved in session file
+        self.login_username (str): The Instagram login account which should already be saved in the session file
 
         """
         self.target = "pikaland.au"
